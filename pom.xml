@@ -27,7 +27,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:svn:${settings.scm.developerConnection.repositoryUrl}/${project.svn.path}/trunk</developerConnection>
+        <developerConnection>scm:git:https://github.com/boredelf/lero.git</developerConnection>
     </scm>
 
     <build>
