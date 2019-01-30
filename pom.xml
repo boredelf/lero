@@ -4,7 +4,7 @@
 
     <groupId>br.com.poupex.plugins.maven</groupId>
     <artifactId>ws-client-generator-maven-plugin</artifactId>
-    <version>4.2.2</version>
+    <version>5.0.0</version>
 
     <properties>
         <jdk.version>1.7</jdk.version>
