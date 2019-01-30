@@ -27,7 +27,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/boredelf/lero.git</developerConnection>
+        <!-- developerConnection>scm:git:https://github.com/boredelf/lero.git</developerConnection -->
     </scm>
 
     <build>
